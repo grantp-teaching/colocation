@@ -1,0 +1,8 @@
+auto/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*_lab.pdf
+*_notes.pdf
